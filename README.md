@@ -1,4 +1,4 @@
-# Merhaba, ben İskender Mücahit! 
+# Merhaba, ben Iskender Mucahit! 
 
 Ağ İşletmenliği ve Siber Güvenlik alanında kendimi geliştiren bir meslek lisesi öğrencisiyim. Cisco Networking Academy ve Udemy üzerinden aldığım eğitimlerle ağ mimarileri, sistem yönetimi ve siber güvenlik analizi üzerine pratik çalışmalar yapıyorum.
 
@@ -12,7 +12,7 @@ Ağ İşletmenliği ve Siber Güvenlik alanında kendimi geliştiren bir meslek 
 | **Siber Güvenlik** | Cisco Junior Cybersecurity Analyst, Siber Savunma, Tehdit Analizi |
 | **Sistem Yönetimi** | Windows Server, Active Directory, Group Policy, Network Mühendisliği |
 | **Yazılım & Dil** | C / C++ (Öğrenme aşamasında) |
-| **Platformlar** | TryHackMe, Cisco NetAcad |
+| **Platformlar** | TryHackMe, Cisco NetAcad, Udemy  |
 
 ---
 
